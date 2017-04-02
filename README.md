@@ -1,2 +1,0 @@
-# gillwindy.github.io
-GitPages
